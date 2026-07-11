@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.gemini import ask_gemini
+from gemini import ask_gemini
 
 st.set_page_config(
     page_title="Rasheeda AI",
